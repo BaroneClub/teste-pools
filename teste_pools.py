@@ -24,6 +24,7 @@ POOLS = [
     ("KanoPool DE",      "de.kano.is",               3333),
     ("FindMyBlock EU",   "eu.findmyblock.xyz",       3335),
     ("solo.cat",         "solo.cat",                 3333),
+    ("HF Pool BR",       "stratum.hfpool.com.br",    3333),
 ]
 
 RUNS = 5          # quantas medicoes por pool

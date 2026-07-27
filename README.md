@@ -1,7 +1,7 @@
 # Teste de Latência — Pools Solo de Bitcoin ⛏️
 
 Script em Python puro (sem dependências) que mede a latência real entre a sua
-máquina e **13 pools de mineração solo de Bitcoin**: conexão TCP e handshake
+máquina e **14 pools de mineração solo de Bitcoin**: conexão TCP e handshake
 stratum (`mining.subscribe`), 5 medições por pool, ranking pela mediana do
 stratum — que é a latência que o seu miner sente de verdade.
 
@@ -27,7 +27,8 @@ curl.exe -sL https://raw.githubusercontent.com/BaroneClub/teste-pools/main/teste
 ## Pools testadas
 
 AtlasPool · CKPool EU/US · Public Pool · SoloPool.eu · ViaBTC · Parasite Pool ·
-Braiins Solo · SoloHash UK · KanoPool (US/DE) · FindMyBlock EU · solo.cat
+Braiins Solo · SoloHash UK · KanoPool (US/DE) · FindMyBlock EU · solo.cat ·
+HF Pool BR
 
 ## Como ler o resultado
 
