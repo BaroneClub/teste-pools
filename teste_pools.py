@@ -12,6 +12,7 @@ import statistics
 
 POOLS = [
     ("AtlasPool",        "solo.atlaspool.io",        3333),
+    ("BTC PoW Lab",      "stratum.btcpowlab-pool.com", 3333),
     ("CKPool EU",        "eusolo.ckpool.org",        3333),
     ("CKPool US",        "solo.ckpool.org",          3333),
     ("Public Pool",      "public-pool.io",           21496),
